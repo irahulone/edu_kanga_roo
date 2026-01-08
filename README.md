@@ -1,1 +1,1 @@
-# Edu. class mobile robots - Kanga + Roo family
+# Edu. Mobile Robots - Kanga + Roo family
