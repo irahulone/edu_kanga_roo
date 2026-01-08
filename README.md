@@ -1,1 +1,1 @@
-# mobile_robot_kangaroo
+# Edu. class mobile robots - Kanga + Roo family
